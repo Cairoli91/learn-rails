@@ -56,3 +56,18 @@ git push -u origin master
 git remote add origin https://github.com/Cairoli91/learn-rails.git
 git push -u origin master
 git add .
+git add .
+git commit -m "Initial Commit"
+git push -u origin master
+gem which bundler
+gem which rails
+\gem bundle install
+bundle install
+gem bundle install
+cd
+cd learn-rails
+bundle install
+bye bug
+gem byebug
+byebug
+bundle install
