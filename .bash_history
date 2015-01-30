@@ -71,3 +71,16 @@ bye bug
 gem byebug
 byebug
 bundle install
+git add -A
+git commit -m "add gems"
+git push origin master
+git push origin master
+git push origin master
+rails generate figaro:install
+rails generate figaro:install
+bundle install
+gem list
+bundle install
+bundle install
+bundle install
+bundle install
